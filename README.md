@@ -1,4 +1,4 @@
-# Contact Management System — 2026
+# Contact Management System 
 
 A REST API-based Contact Management System built with Spring Boot and MySQL, featuring full CRUD operations, search, and a bonus contact-linking ("Six Degrees") feature that lets you build a visual relationship tree between contacts.
 
@@ -113,4 +113,4 @@ This returns all root contacts (no manager) with their `linkedContacts` nested u
 ![Search](screenshots/04-search-feature.png)
 
 ## Author
-Muhammad Faiz Alam —2026, Software Development Track
+Muhammad Faiz Alam , Software Development Track
